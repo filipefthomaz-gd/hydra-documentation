@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: HYDRA
+  name: Hydra
   text: Adaptive audio for Unity
   tagline: HYbrid Dynamically Responsive Audio — stem-based music, beat-synced transitions, spatial zones, and emotional mixing. Everything you need to make your game's audio react to what's happening.
   actions:

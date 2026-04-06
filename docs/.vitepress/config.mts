@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'HYDRA',
+  title: 'Hydra',
   description: 'HYbrid Dynamically Responsive Audio — OCEAN adaptive audio system',
   base: '/hydra-docs/',
 
