@@ -6,7 +6,7 @@ export default defineConfig({
   base: '/hydra-documentation/',
 
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/reefs-documentation/favicon.png' }]
+    ['link', { rel: 'icon', type: 'image/png', href: '/hydra-documentation/favicon.png' }]
   ],
 
 
