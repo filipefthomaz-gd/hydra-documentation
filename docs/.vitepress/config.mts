@@ -5,7 +5,14 @@ export default defineConfig({
   description: 'HYbrid Dynamically Responsive Audio — OCEAN adaptive audio system',
   base: '/hydra-documentation/',
 
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/reefs-documentation/favicon.png' }]
+  ],
+
+
   themeConfig: {
+    logo: '/favicon.png',
+
     nav: [
       { text: 'Guide',     link: '/guide/getting-started' },
       { text: 'Reference', link: '/reference/components' },
